@@ -199,19 +199,3 @@ This was my first automation, and building it taught me:
 
 Most importantly, I learned that persistence pays off: a workflow that failed many times finally ran end to end.
 
-## 🔐 Security Considerations
-
-- Do not publish private email addresses or personal timetable details in screenshots.
-- Never commit API keys, passwords, or access tokens.
-- Review exported workflow files before publishing them.
-- Keep private credentials and configuration values out of the public repository.
-
-## 👨‍💻 Author
-
-**Vedamurthy M**
-
-Engineering student passionate about AI, Machine Learning, and automation.
-
-## 📄 License
-
-This project is available for learning and educational purposes. Add a license file if you want to define formal permissions for reuse and distribution.
